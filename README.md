@@ -1,4 +1,5 @@
 # 알고리즘 공부
+**자료 구조**
 + [큐](https://github.com/kymjaehong/coding-test-problems/blob/main/codingtest/src/main/kotlin/com/fastcampus/codingtest/datastructure/Queue.kt)<br>
 + [스택](https://github.com/kymjaehong/coding-test-problems/blob/main/codingtest/src/main/kotlin/com/fastcampus/codingtest/datastructure/Stack.kt)<br>
 
