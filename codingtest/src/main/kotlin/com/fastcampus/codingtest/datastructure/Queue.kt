@@ -64,8 +64,8 @@ class QueueImpl<T>(
         if (size == 0) {
           return null
         }
-        val response = queue[size - 1]
-        queue.removeAt(size - 1)
+        val response = queue[0]
+        queue.removeAt(0)
         return response
     }
 
