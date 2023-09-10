@@ -2,7 +2,7 @@
 ---
 **클릭 시, 유튜브 페이지 이동** <br>
 
-[![img](https://github.com/kymjaehong/backjoon-list/blob/master/img.png)](https://www.youtube.com/watch?v=rUWf0mhcrQk&t=1s)
+[![img](https://github.com/kymjaehong/coding-test-problems/blob/main/img.png)](https://www.youtube.com/watch?v=rUWf0mhcrQk&t=1s)
 <br>
 ---
 **클릭 시, 문제 목록 페이지 이동** <br>
