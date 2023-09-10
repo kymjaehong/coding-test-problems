@@ -1,5 +1,5 @@
 # 헤이밥 유튜브 코테 문제 유형 및 목록
-![[img](https://github.com/kymjaehong/backjoon-list/blob/master/img.png)](https://www.youtube.com/watch?v=rUWf0mhcrQk&t=1s)
+![img](https://github.com/kymjaehong/backjoon-list/blob/master/img.png)(https://www.youtube.com/watch?v=rUWf0mhcrQk&t=1s)
 
 [그리디](https://github.com/kymjaehong/backjoon-list/tree/master/greedy)<br>
 
