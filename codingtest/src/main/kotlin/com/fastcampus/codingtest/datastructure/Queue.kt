@@ -9,7 +9,7 @@ class Queue {
      * enqueue: add(value), offer(value)
      * dequeue: poll(), remove()
      *
-     * impot LinkedList, Queue
+     * import LinkedList, Queue
      */
 }
 
