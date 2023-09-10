@@ -13,7 +13,7 @@ class Queue {
      */
 }
 
-fun mainBefore() {
+fun queueBefore() {
     val queueInt : Queue<Int> = LinkedList()
     val queueString : Queue<String> = LinkedList()
 
@@ -30,7 +30,7 @@ fun mainBefore() {
     println("queueInt: $queueInt")
 }
 
-fun mainAfter() {
+fun queueAfter() {
     val queue = QueueImpl<Int>()
     val pollEqNull = queue.dequeue()
     println("poll: $pollEqNull")
@@ -46,17 +46,16 @@ fun mainAfter() {
 }
 
 fun main() {
-    mainBefore()
+    queueBefore()
     println("============================")
-    mainAfter()
+    queueAfter()
 }
 
 class QueueImpl<T>(
     private val queue: MutableList<T> = mutableListOf()
 ) {
-    fun enqueue(t: T): MutableList<T> {
+    fun enqueue(t: T) {
         queue.add(t)
-        return queue
     }
 
     fun dequeue(): T? {
