@@ -1,3 +1,8 @@
+# 알고리즘 공부
++ [큐](https://github.com/kymjaehong/coding-test-problems/blob/main/codingtest/src/main/kotlin/com/fastcampus/codingtest/datastructure/Queue.kt)<br>
++ [스택](https://github.com/kymjaehong/coding-test-problems/blob/main/codingtest/src/main/kotlin/com/fastcampus/codingtest/datastructure/Stack.kt)<br>
+
+---
 # 헤이밥 유튜브 코테 문제 유형 및 목록
 ---
 **클릭 시, 유튜브 페이지 이동** <br>
