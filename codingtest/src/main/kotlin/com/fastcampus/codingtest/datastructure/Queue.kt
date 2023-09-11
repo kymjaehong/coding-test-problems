@@ -8,6 +8,9 @@ class Queue {
      * FIFO
      * enqueue: add(value), offer(value)
      * dequeue: poll(), remove()
+     * read: 
+     *     peek(): 비어있으면 null
+     *     element(): 비어있으면 NoSuchElementException
      *
      * import LinkedList, Queue
      */
